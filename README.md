@@ -2,7 +2,7 @@
 <!--                    HEADER · WAVE + TYPING                      -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/AashuPatel">
+<a href="https://github.com/Vandu55">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00f7ff&height=220&section=header&text=Aashutosh%20Patel&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20·%20System%20Builder%20·%20AI%20Tinkerer&descAlignY=62&descSize=16&animation=fadeIn" />
 </a>
 
