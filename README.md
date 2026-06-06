@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/AashuPatel">
+  <a href="https://github.com/Vandu55">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=760&lines=Software+Engineer+%40+Bambinos.live;Head+Coordinator+%40+Makerspace%2C+NIT+Raipur;Building+AI-powered+learning+systems;I+think+in+systems%2C+not+features." />
   </a>
 </p>
